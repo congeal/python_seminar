@@ -1,0 +1,16 @@
+/*
+ * this is loaded only because it's named rise.css in the current directory
+ */
+
+div.rise {
+    background-color: blue;
+}
+
+
+body.rise-enabled div.inner_cell>div.text_cell_render.rendered_html {
+    text-align: center;
+}
+
+.reveal p {
+    text-align: center;
+}
