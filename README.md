@@ -30,3 +30,4 @@ Google colab에서 작업한 코드는 Google drive에 저장되므로 따로 �
 ## 실습 자료
 * [Data types 문제](practice_type_control.ipynb)
 * [Data types 답](practice_type_control_sol.ipynb)
+* [Function, Control 문제](practice_function.ipynb)
